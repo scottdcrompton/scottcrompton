@@ -1,4 +1,5 @@
 === Twenty Seventeen ===
+NICE
 Contributors: the WordPress team
 Requires at least: WordPress 4.7
 Tested up to: WordPress 4.7
